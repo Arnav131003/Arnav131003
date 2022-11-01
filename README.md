@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Arnav</h1>
+![MasterHead](http://www.cs.jyu.fi/ai/vagan/DL4CC_files/image002.gif)
+<h1 align="center">Hi 👋, I'm Arnav 🤓</h1>
 <h3 align="center">A tech enthusiast from India making the machine solve my life problems using machine learning.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **Python , HTML , CSS , JAVASCRIPT**
